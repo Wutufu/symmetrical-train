@@ -1,1 +1,4 @@
-print("Hello, world!")
+git clone https://github.com/username/repository.git
+git add .
+git commit -m "add your message here"
+git push origin master
